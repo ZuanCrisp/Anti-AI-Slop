@@ -1,0 +1,6 @@
+Original tag name: v3.2.6
+Original tag object: 99bbfa39b6ba88b5392824de7708ae6e6a6d8c6c
+Original target commit: 99bbfa39b6ba88b5392824de7708ae6e6a6d8c6c
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
