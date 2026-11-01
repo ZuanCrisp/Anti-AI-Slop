@@ -1,0 +1,12 @@
+Original tag name: v3.2.25
+Original tag object: 09c5388d1e99833d7572f140519c9c3814f22534
+Original target commit: 941b1532f9cc8ffde766bca5921d75257c9e5762
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 941b1532f9cc8ffde766bca5921d75257c9e5762
+type commit
+tag v3.2.25
+tagger miqdadbadjuber <miqdadbadzubair@gmail.com> 1793534792 +0700
+
+v3.2.25
